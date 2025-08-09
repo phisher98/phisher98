@@ -1,14 +1,37 @@
 <div align="center">
 
-# 🚀 Welcome to phisher98's Universe! 🌟
+# 🚀 Welcome to phisher98's Digital Space! 🌌
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+phisher98😼;Coder+|+Hacker+|+Tech+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+There!+👋;I'm+phisher98+|+Cybersecurity+Enthusiast;Coder+|+Hacker+|+Tech+Explorer;Always+Learning+and+Evolving!" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" />
 
 </div>
 
-## 📊 GitHub Statistics
+---
+
+## 💻 About Me
+
+- 🔐 Passionate about cybersecurity, ethical hacking, and software development  
+- 🌱 Currently sharpening skills in penetration testing and network security  
+- 💬 Always open to collaborations and knowledge sharing
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -33,8 +56,10 @@
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250" />
 
 </div>
