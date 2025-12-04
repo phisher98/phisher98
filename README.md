@@ -15,8 +15,16 @@
 - 🔐 Passionate about cybersecurity, ethical hacking, and software development  
 - 🌱 Currently sharpening skills in penetration testing and network security  
 - 💬 Always open to collaborations and knowledge sharing
+- I’m a Developer and Ethical Hacker, but I’m doing this purely for fun.
 
 ---
+
+
+### ❤️ Support
+
+If you find this project helpful, consider supporting its development!
+
+<a href="https://buymeacoffee.com/nivincnc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 🛠️ Tech Stack & Tools
 
